@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. student in Electronic Information at [Zhejiang University](https://www.zju.edu.cn/english/). My research explores **data-centric methods for building efficient, reliable, and socially beneficial AI agents**.
+I am a Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/). My research explores **data-centric methods for building efficient, reliable, and socially beneficial AI agents**.
 
 My current interests sit at the intersection of data management and trustworthy AI:
 
