@@ -8,8 +8,6 @@ profile:
   align: right
   image: jiazheng-song.jpg
   image_circular: false
-  more_info: >
-    <p>Hangzhou, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,6 +22,12 @@ latest_posts:
   scrollable: false
   limit: 3
 ---
+
+<style>
+  .post article > h2 > a {
+    text-transform: capitalize;
+  }
+</style>
 
 I am a Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/). My research explores **data-centric methods for building efficient, reliable, and socially beneficial AI agents**.
 
