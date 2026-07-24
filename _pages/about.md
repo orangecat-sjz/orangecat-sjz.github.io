@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> · Data-centric AI · Reliable agents
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: jiazheng-song.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Hangzhou, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false
+  limit: 3
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Electronic Information at [Zhejiang University](https://www.zju.edu.cn/english/). My research explores **data-centric methods for building efficient, reliable, and socially beneficial AI agents**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current interests sit at the intersection of data management and trustworthy AI:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Reliable agents:** understanding and improving the robustness of reasoning models under adversarial conditions.
+- **Adaptive reasoning:** allocating inference-time computation according to task difficulty and safety needs.
+- **Data-centric AI:** data valuation, efficient Shapley-like value estimation, and compact representations of data dependencies.
+
+Before starting my Ph.D., I received my B.S. in Computer Science from Zhejiang University in 2024. I was recognized as an Outstanding Graduate of Zhejiang University and received an Outstanding Undergraduate Thesis Award.
+
+You can find a concise overview of my work on the [research page](/projects/), browse my [publications](/publications/), or download my [CV](/assets/pdf/Jiazheng_Song_CV.pdf).

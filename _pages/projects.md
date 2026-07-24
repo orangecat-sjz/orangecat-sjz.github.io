@@ -1,12 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected research on reliable agents, data valuation, and data management.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
