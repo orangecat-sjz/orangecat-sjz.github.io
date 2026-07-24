@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://orangecat-sjz.github.io/sitemap.xml
