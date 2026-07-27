@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **ASSS** was published in [SIGMOD](https://doi.org/10.1145/3802016).
+Our paper **ASSS** was published in [SIGMOD 2026](https://doi.org/10.1145/3802016).
